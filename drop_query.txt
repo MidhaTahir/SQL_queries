@@ -1,0 +1,8 @@
+DROP TABLE sales;
+
+
+/*
+used for deleting an SQL object
+DROP TABLE table_name;
+
+*/
